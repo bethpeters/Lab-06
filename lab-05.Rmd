@@ -21,8 +21,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
-
+The bars are not to scale and the units are inconsistent. The image does not respect the mathematics because the imprecise scale of the bars makes it hard to understand the relationship between the data points for each language.
 
 
 
@@ -33,8 +32,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
-
+The visualization does not respect the data because there is no legend, which makes it difficult to interpret. There is no unit of measurement which makes the interpretation even more unclear. 
 
 
 
