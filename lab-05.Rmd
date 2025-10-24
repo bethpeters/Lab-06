@@ -42,7 +42,7 @@ The visualization does not respect the data because there is no legend, which ma
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+The data does not respect people because the data points is clumped together, which makes it hard for people to interpret. The visualization also does not respect the data because there is no unit of measurement and the x-axis is unclear (e.g. how it is continuous).
 
 
 
@@ -53,8 +53,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
-
+The data does not respect people because it would be difficult for color-blind to interpret. The use of red and green for China and Latin America respectively could be offensive.
 
 
 
